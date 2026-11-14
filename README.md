@@ -111,7 +111,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pooja-verma-m-a5bb12330/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853"/></a><a href="mailto:mpoojaverma12@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C853"/></a><a href="https://leetcode.com/u/MPOOJAVERMA/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00C853"/></a><a href="https://github.com/mpoojaverma" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C853"/></a>
