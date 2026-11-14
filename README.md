@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/✨%20VISIT%20MY%20LIVE%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
+    <img src="https://img.shields.io/badge/%20VISIT%20MY%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
   </a>
 </p>
 
