@@ -1,13 +1,9 @@
-<h2 align="center">Explore My Portfolio</h2>
+<h1 align="center">Explore My Portfolio :)</h1>
 
 <p align="center">
   <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/✨%20VISIT%20MY%20LIVE%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Explore my work, experience, research, projects and achievements.</i>
 </p>
 
 <p align="center">
