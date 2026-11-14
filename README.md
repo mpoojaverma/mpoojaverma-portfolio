@@ -1,4 +1,4 @@
-<h1 align="center">Explore My Portfolio :)</h1>
+<h1 align="center">:)</h1>
 
 <p align="center">
   <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
@@ -124,10 +124,6 @@
 
 <p align="center">
   🌿 <i>Building secure, intelligent, and research-driven systems through technology</i> 🌿
-</p>
-
-<p align="center">
-  Portfolio Web — <b>Coming Soon</b>
 </p>
 
 <p align="center">
