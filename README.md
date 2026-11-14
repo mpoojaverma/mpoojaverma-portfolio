@@ -1,11 +1,3 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C853&height=230&section=header&text=Hi,%20I'm%20M.%20Pooja%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%20•%20AI/ML%20Research%20•%20Cybersecurity&descAlignY=60&descSize=17"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=650&height=40&lines=What+you+seek+is+seeking+you.;Building+secure+and+intelligent+systems.;Turning+ideas+into+real+projects."/>
-</p>
-
 <h2 align="center">Explore My Portfolio</h2>
 
 <p align="center">
